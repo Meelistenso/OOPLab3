@@ -1,0 +1,17 @@
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe.config
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csprojResolveAssemblyReference.cache
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.AboutForm.resources
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.Properties.Resources.resources
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.RouteForm.resources
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.GenerateResource.Cache
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\bin\Debug\OOPLab3.pdb
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.exe
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.pdb
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.StopForm.resources
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.VechileForm.resources
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.ProgramInfoForm.resources
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.EditRouteForm.resources
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.EditStopForm.resources
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.EditVechileForm.resources
+c:\users\игорь\documents\visual studio 2015\Projects\OOPLab3\OOPLab3\obj\Debug\OOPLab3.ConvertorForm.resources
